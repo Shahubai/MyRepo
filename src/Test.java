@@ -6,7 +6,7 @@ public class Test {
 	
 	public void te1() {
 	}
-	public void te2() {
+	public void te45() {
 	}
 	public void te3() {
 	}
